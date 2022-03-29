@@ -1,4 +1,4 @@
-# NodeServer
+# Node Server
 
 ## Example to test ApiREST.
 1. Server who reply request is locate on swagger.
